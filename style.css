@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+    color:rgb(0, 180, 0);
+    font-size: 20px;
+}
+nav a {
+color: rgb(0, 180, 54);
+}
+h1 {
+    color: dodgerblue;
+    font-size: 50px;
+    text-align: center;
+    background-color: indigo;
+}
+p {
+    font-size: 20px;
+    color: dodgerblue;
+    background-color: indigo;
+}
+.gamer{
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-size: 30px;
+    color: dodgerblue;
+    background-color: indigo;
+}
